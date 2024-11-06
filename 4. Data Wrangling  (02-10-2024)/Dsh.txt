@@ -1,0 +1,4 @@
+- Ndertoni nje dictionary si shembulli qe beme.
+- Kthejeni ne nje dataframe
+- Ndertojme pyetje si psh: Me jep adresen e emailit te studentit me emer... duke perdoru metodat qe mesuam
+
