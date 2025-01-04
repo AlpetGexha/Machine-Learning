@@ -1,0 +1,855 @@
+PYETJET E MUNDSHME NGA LËNDA: SIGURIA E RRJETAVE TE IT-ve
+08.01.2024
+1. Cili ështe qellimi kryesor (primar) i sigurise (permendi disa te dhena qe duhet siguruar?.
+- Qëllimi kryesor është identifikojë çështjet e sigurisë dhe privatësisë në aspekte të ndryshme
+të informatikës, përfshirë: Programet, Sistemet operative, Rrjetet, Aplikacionet e Internetit,
+Bazat e të Dhënave
+2. Cili eshte qellimi sekondar e sigurise?
+- Qëllimi sekondar, përdorimi i kësaj aftësie për të dizajnuar sisteme që janë me mbrojtje më
+të mirë sa i përket sigurisë dhe privatësisë.
+3. Në kontekstin e kompjuterëve, siguria në përgjithësi nënkupton tri gjëra, cilat janë ato tri
+gjëra dhe shpejgoni njënga një domethenjen e tyre?
+- Konfidencialiteti: Qasja në sisteme apo të dhëna është e kufizuar në palë të autorizuara
+- Integriteti: Kur kërkoni të dhëna, ju gjeni të shënat e “duhura”
+- Disponueshmëria: Sistemi apo të dhënat janë aty kur keni nevojë për to.
+4. Një sistem është i sigurtë nëse mund të mbështetemi në të nëse?
+- I mban të fshehta të dhënat personale
+- Lejon vetëm qasje të autorizuar apo modifkim të autorizuar të resurseve
+- Jep rezultate korrekte dhe kuptimplota
+- Jep rezultate korrekte dhe kuptimplota kur ju keni nevojë për to
+5. Çka është privatësia, Kjo nënkupton që ju keni nën kontroll informacionin, për ju “Kontrolli”
+nënkupton shumë gjëra, cilat janë ato gjëra?
+- Kush e sheh informacionin
+- Kush e përdor informacionin
+- Për çka ata/ato mund ta përdorin informacionin
+- Kujt mund t’ia japin informacionin Etj.
+6. Çka kupton PIPEDA?
+- Personal Information Protection and Electronic Documents Act, është legjislacion kanadez
+për privatësi në sektorin privat.
+7. Përmendi (Listoni) dhjetë Principe të Drejta të Informaiconit të cilat duhet të respektohen nga
+kompanitë botërore për sigurin e tyre?
+- Qenë përgjegjës
+- Identifikuar qëllimin e mbledhjes së të dhënave
+- Siguruar pëlqim
+- Kufizuar mbledhjen
+- Kufizuar përdorimin, zbulimin dhe ruajtjen
+- Qenë të saktë
+- Përdorur mbrojtje adekuate
+- Qenë të hapur
+- I siguruar individëve qasje
+- Ofruar mbështetje
+8. Kush janë kundërshtarët e juaj dhe kompanise se juaj?
+- Murphy
+- Amatorët
+- “Script kiddies”
+- Crackers
+- Krim i organizuar
+- Terroristët
+9. Për të ndërtuar sisteme të sigurta, ne duhet të mësojmë si të mendojmë si një
+______________________?
+Sulmues
+10. Çka kupton me fjalën asetet e kompanisë nga aspekti i shkencave kompjuterike?
+- Asetet: Gjërat të cilat ne dojmë t’i mbrojmë, si: Hardware, Software, Data
+11. Cka kupton me fjalën Cenueshmëritë e një sistemi?
+- Dobësitë në një sistem të cilat mund të shfrytëzohen për të shkaktuar humbje apo dëme
+P.sh., një file server që nuk vërteton (autentifikon) përdoruesit e tij.
+12. Cka kupton me fjalen Kërcënimet në shkencat kompjuterike?
+- Një humbje apo dëm që mund t’i ndodhë sistemit: P.sh., fajllat personale të përdoruesve
+mund të publikohen
+13. Ekzistojnë katër kategori kryesore të kërcënimeve, cilat janë ato?
+- Kapja (Interception)
+- Ndërprerja (Interruption)
+- Modifikimi (Modification)
+- Falsifikimi (Fabrication)
+14. Çka kupton me fjalën Sulm në Shkencat Kompjuterike, trego një shembull?
+- Një veprim që shfrytëzon një dobësi: P.sh., të treguarit një file server-i që ju jeni një
+përdorues tjetër për të tentuar leximin apo modifkimin e fajllave të tij.
+15. Cka kuptoni Kontrolli ne shkencat kompjuterike?
+- Largimi apo zvogëlimi i cenueshmërisë
+- Ju kontrolloni një cenueshmëri për të parandaluar një sulm dhe për të bllokuar një
+kërcënim.
+- Si do të kontrollonit ju një cenueshmëri të file server-it?
+- Qëllimi ynë: kontrolli i cenueshmërive.
+16. Si mund të mbrohemi nga një kërcënimë?
+- Parandalimi: bllokim i sulmit
+- Përmbajtja: vështirësimi i sulmit (bëje më të vështirë dhe më të shtrenjtë)
+- Shmangia: bërja më pak atraktive ndaj sulmuesit
+- Detektimi: vrojtimi që sulmi po ndodh (apo ka ndodhur)
+- Rikthimi: zbutja e efekteve të sulmit.
+17. Mbrojtja e sistemeve kompjuterike, çka kupton me kriptografi?
+- Mbrotja e të dhënave duke i bërë të palexueshme për sulmues
+- Vërtetimi i përdoruesve me nënshkrime digjitale
+- Vërtetimi i transakcioneve me protokolle kriptografike
+- Sigurimi i integritetit të të dhënave të ruajtura
+- Mbrojtja e privatësisë së konsumatorëve duke i bërë automatikisht të palexueshme
+infrmacionet personale të tyre pas një kohe të caktuar
+18. Mbrojtja e sistemeve kompjuterike, çka kupton me Kontrollat e softuerit?
+- Fjalëkalimet dhe format tjera të kontrollit të qasjes
+- Sistemet operative ndajnë veprimet e përdoruesit nga njëri tjetri
+- Skanerët e viruseve vëzhgojnë për disa lloje të malware-it
+- Kontrollat e zhvillimit imponojnë matje të kualitetit në kodin origjinal burimor
+- Firewall-et personale që veprojnë në desktopin tuaj.
+19. Mbrojtja e sistemeve kompjuterike, çka kupton me Kontrollat e harduerit?
+- (Zakonisht jo mbrojtja e vetë harduerit, por përdorimi i harduerit të veçantë për të mbrojtur
+sistemin.)
+- Lexuesit e gishtave
+- Tokenët e mençur
+- Firewall-et
+- Sistemet për detektim të ndërhyrjeve.
+20. Programet e sigurta, Programet relevante sa i përket sigurisë kanë ____________________?
+- gabime
+21. Një e metë është një problem me një ____________________?
+Program
+22. Të metat paraqiten në dy forma, cilat janë ato dy forma?
+- si defekte dhe
+- si dështime
+23. Si gjendet një defekt?
+- Nëse përdoeusi përjeton një dështim, ju mund të provoni rikthimin prapa për gjetjen e
+defektit përkatës.
+- Po çka për defektet të cilat nuk shkaktojnë (ende) dështime?
+- Provoni të shkaktoni qëllimisht dështime, dhe më pas veproni si më lart.
+24. Shumica e të metave të sigurisë shkaktohen nga gabimet jo të qëllimta të programeve, cilat
+jane prej burimeve më të zakonshme të të metave jo të qëllimta të sigurisë?
+- Buffer overflow-et
+- Ndërhyrjet jo komplete
+- Gabimet TOCTTOU (kushtet e garës).
+25. Si mund të mbrohemi ndaj buffer overflow-ve?
+- Përdorni një gjuhë që ka kontrollë të kufijve dhe kapni ato eksepcione!
+- Stek jo-të-ekzekutueshëm, stek (dhe ndonjëherë kodi) në adresa të rastit për çdo proces
+- Linux 2.6 e bën këtë “Canaries” që detektojnë nëse steku është mbishkruar para kthimit nga
+secili funksion një veçori e kompajlerit.
+26. Ndërhyrja jo komplete kur ndodhë?
+- Ndërhyrja jo komplete ndodh atëherë kur aplikacioni pranon të dhëna jo korrekte nga
+përdoruesi.
+27. Metoda e mbrojtjes nga ndërhyrja jo komplete, çka kërkon?
+- Ndërhyrja nga ana e klientit është një metodë në rregull nëse kërkojmë një interfejs më të
+përshtatshëm, mirëpo në aspektin e sigurisë është e papërdorshme.
+28. Gabimet T-O-C-T-T-O-U, çka do të thot kjo shkurtesë?
+- Time-Of-Check To Time-Of-Use
+29. Malware: forma të ndryshme të softuerit të krijuara për qëllime të këqija, permendi disa nga
+softweret e qellim kqija?
+- Viruset
+- Trojanët
+- Bombat logjike
+- Krimbat
+30. Si mund të ekzekutohet malware, Pëmes përdoruesit por si behet kjo?
+- Duke shkarkuar dhe ekzekutuar softuer keqdashës
+- Duke shikuar web faqe që përmbajnë kontrolla ActiveX keqdashëse
+- Duke hapur një shtojcë të ekzekutueshme të email-it
+- Duke insertuar CD/DVD/USB.
+31. Çka është virusi?
+- Virusi ëshët një lloj i veçantë i malware-it i cili infekton fajllat tjerë, Tradicionalisht, virusi
+mund të infektojë vetëm programet e ekzekutueshme, Sot, shumë formate të dhënash
+mund të përmbajnë kod të ekzekutueshëm (makro).
+32. Çka do të thotë “infektimi” i fajllit?
+- Virusi dëshiron të modifikojë një program apo dokument ekzistues (jo të dëmshëm) në atë
+mënyrë që ekzekutimi apo hapja e tij do të transferojë kontrollin drejt virusit, Virusi mund ta
+bëjë punën e tij “të ndyrë” dhe më pas ta kthejë kontrollin te hosti.
+33. Viruset për programet e ekzekutueshme si vepron?
+- Zakonisht, virusi do të modifikojë programet tjera dhe të kopjojë veten në fillim të kodit të
+programit cak.
+34. Viruste për dokumente me makro?
+- Virusi do të editojë dokumentet tjera për ta shtuar veten në to si makro i cili starton
+automatikisht në momentin e hapjes së fajllit.
+35. Përveç infektimit të fajllave tjerë, virusi shpesh do të tentojë të infektojë edhe kompjuterin
+në këtë mënyrë, çdo herë kur ____________________ kompjuteri ,virusi aktivizohet
+________________________
+Starton/ automatikisht
+36. Si përhapen viruest mes kompjuterëve?
+- Zakonisht, kur përdoruesi dërgon fajlla të infektuar (duke mos ditur se janë infektuart!) te
+shokët e tij. Apo i vendos në rrjet p2p
+- Visrusi zakonisht kërkon një lloj të veprimit nga ana e përdoruesit për t’u përhapur te
+kompjuterët tjerë, nëse mund të përhapet vetë (p.sh., përmes email-it), ka gjasa të jetë
+krimb e jo virus.
+37. Shumica e viruseve kanë një lloj të ngarkesës në kompjuterin e juaj. Në një moment të
+caktuar, ngarkesa e kompjuterit të infektuar do të aktivizohet, dhe diçka (zakonisht e keqe do
+te ndoshë), çka do të ndodhë me kompjuterin e juaj?
+- Fshihet disku juaj i ngurtë
+- Papritmas disa prej tabelave në dokumentet tuaja do të korruptohen
+- Instalohet një key logger për të zënë fjalëkalimin tuaj të bankës
+- Fillon sulmin drejt një web faqeje të caktuar.
+38. Kur duhet të kërkojmë për viruse?
+- Kur shtojmë fajlla në kompjuterin tonë
+- Përmes mediume portative. Përmes rrjetit
+- Kohë pas kohe, skanoni komplet kompjuterin
+- Për të kapur diçka që mund të jetë fshehur, Edhe pse, çfarëdo dëmi që mund të kenë
+shkaktuar viruset nuk mund të rikthehet.
+39. Si i kërkojmë viruset për mbrojtje?
+- Mbrojtja e bazuar në nënshkrim
+- Mbrojtja e bazuar në sjellje.
+40. Çka përfshin mbrojtja e kompjuterve duke u bazuar në nënshkrim?
+- Mban një listë të viruses të njohura
+- Për çdo virus në listë, ruan disa veçori karakteristike (nënshkrimi)
+41. Shumica e sitemeve në kompjuter të bazuara në nënshkrim përdorin veçori të vetë kodit të
+virusit, cilat janë ato kode?
+- Kodin e infektimit dhe
+- Kodin e e ngarkesës
+42. Për të evituar skanerët e virusit të bazuar në nënshkrim, disa virus janë ___________________
+Polimorfikë
+43. Mbrojtja e bazuar në sjellje, Sistemet e bazuara në nënshkrim kanë një kufizim të madh, cilat
+janë ato kufizime?
+- Mund të skanojnë vetëm viruset që janë në listë!
+- Mirëpo çdo ditë identifikohen disa viruse të reja, momentalisht 70-75 mijë virus.
+44. Negativet dhe pozitivet e pasakta, Çdo lloj i testit apo skanerit ka dy lloje të gabimeve, cilat
+janë ato gabime për negativet e pa sakta dhe pozitivet e pa sakta?
+- Negativet e pasakta: dështimi për të identifikuar një kërcënim i cili është prezent
+- Pozitivet e pasakta: pretendimi për një prezencë të kërcënimit kur i tillë në fakt nuk ekziston
+45. Çka janë viruset Trojan?
+- Trojanët janë programe që pretendojnë që bëjnë diçka të padëmshme (dhe zakonisht
+bëjnë), por që poashtu edhe sjellje keqdashëse.
+46. Si e fitojnë kontrollin Trojanët në kompjuterin e juaj?
+- Fitojnë kontroll përmes “detyrimit” të përdoruesit që të ekzekutojnë kodin e sulmuesit,
+zakonisht duke ofruar edhe kod që përdoruesi dëshiron të ekzekutojë “PUP” (potentially
+unwanted programs) janë një shembull: Ngarkesa mund të jetë çkado; ndonjëherë ngarkesa
+e trojanit është vet virus
+- Trojanët zakonisht nuk përhapen nëpër kompjuterë; ata mbështeten në shumë përdorues të
+cilët ekzekutojnë softuer të “trojanizuar” Aq më tepër: përdoruesit shpërndajnë softuer të
+trojanizuar në rrjete p2p.
+47. Çka është bomba logjike?
+- Bomba logjike është një kod keqdashës i cili fshihet në softuerin që veq është në
+kompjuterin tuaj, duke pritur për një shkrehës për “t’u aktivizuar” (ekzekutuar ngarkesën e
+tij). Bombat logjike zakonisht shkruhen nga “insider-ët”, dhe kanë për qëllim të aktivizohen
+më vonë.
+48. Ngarkesa e bombës logjike zakonisht është shumë e rrezikshme, Pse është e rrezikshme?
+- Fshin të dhënat e tua
+- I korrupton të dhënat e tua
+- I enkripton të dhënat, dhe më pas kërkon nga ju të bëni një transfer bankar në një nga
+llogaritë bankare të jashtme për të marrur çelësin dekriptues!
+49. Çka është Shkrehësa dhe si aktivizohet ajo?
+- Zakonisht diçka që insider-i mund të dëmtojë pasi të mos jetë më insider
+- Aktivizohet pasi që një llogari bankare të ketë marrë tri depozita të njëjta të njëjtën ditë
+- Aktivizohet kur një sekuencë e veçantë e numrave të fuztet në një ATM
+- Aktivizohet në një kohë të caktuar (quhet edhe “bombë kohore”).
+50. Çka janë Krimbat, trego detajet e tijë?
+- Krimbi është një pjesë e kodit e vetë-përmbajtur e cila mund të replikohet me pak përfshirje
+ose pa përfshirje të përdoruesit
+- Krimbat shpesh shfrytëzojnë të metat në siguri në softuere me përdorim të gjerë si shteg
+për infektim
+Zakonisht: Krimbi shfrytëzon një të metë në siguri në ndonjë softuer të kompjuterit tuaj, duke e
+infektuar atë
+- Krimbi menjëherë fillon të kërkojë për kompjuterë tjerë (në rrjet lokal, apo në Internet) për
+të infektuar. Mund të ketë apo mos ketë ngarkesë e cila aktivizohet në kohë të caktuar, apo
+nga ndonjë shkrehës tjetër.
+51. Nëse kompjuteri i juaj është infektuar me Krimbin Morris, çka tenton kompjuteri i juaj të
+veproj pas infektimit dhe ne cilen mënyr I infekton ato?
+- Pas infektimit, makina tentonte ifektimin e makinave tjera në tri mënyra:
+- Duke shfrytëzuar buffer overflow në “finger” daemon
+- Duke përdorur një derë të prapme të lënë në “sendmail” mail daemon
+- Duke provuar “sulmin fjalor” kundër fjalëkalimeve të përdoruesve lokalë. Nëse mse sukses,
+logohej si ata, dhe më pas përhapej në makina tjera në të cilat mund të qasj pa fjalëkalim
+52. Kompjuteri apo makina e juaj e infektuar me Krimbin Code Red, çka shfytëzon dhe si vepron?
+- Shfrytëzoi një buffer overflow në IIS web server të Microsoftit (për të cilin një patch ishte në
+dispozicion për mëse 1 muaj)
+- Makina e infektuar do të:
+- Shpërfytyronte faqen e saj
+- Lansonte sulme në web server-ë tjerë (IIS apo jo)
+- Lansonte sulme denial-of-service në disa web site, përfshirë këtu edhewww.whitehouse.gov
+- Instalonte një derë të prapme dhe një Trojan për të pamundësuar dizinfektimin
+53. Kompjuteri i infektuar me Krimbin Slammer-Warhol, çka vepron dhe si vepron kompjuteri i
+juaj?
+- Shembull i parë i “krimbit Warhol”
+- Krimb i cili mund të infektonte gati të gjitha makinat e cenueshme brenda 15 minutave
+- Shfrytëzoi një buffer overflow SQL Server të Microsoft-it (edhe pse kishte patch në
+dispozicion)
+- Një makinë e cenueshme mund të infektohet me një paketë të vetme UDP!
+- Kjo i mundësoi krimbit të përhapet jashtëzakonisht shpejt
+- Rritje eksponenciale, duke u dyfishuar çdo 8,5 sekonda
+- - 90% e pritësve vulnerabël infektohen në 10 minuta
+54. Brenda organizatës, aplikoni rregulla për gjërat të cilat bëhen në secilën etapë të ciklit jetësor
+të softuerit. Këto rregulla duhet të përfshijnë kontrollat dhe standardet. Cilat janë disa pyetje
+që duhet ti perfshin organizata?
+- Këto janë standardet e organizatës: Për shembull:
+- Cilat metodologji të dizajnit do të përdorim?
+- Çfarë lloj diversiteti të implementimit?
+- Cili sistem i menaxhimit të ndryshimeve?
+- Çfarë lloj i rishikimit të kodit?
+- Çfarë lloj i testimit?
+55. Cilët janë Objektet e mbrojtura të Sistemit Operativ-SO?
+- CPU, Memoria, Pajisjet I/O (disqet, printerët, tastierat,...), Programet, Të dhënat, Rrjetet.
+56. Mbrojtja memorike është pjesë e përkthimit të adresave vituale në fizike, cilat janë ato njësi?
+- Njësia për Menaxhim të Memories (MMU) krijon eksepcion nëse diçka nuk është në rregull
+me adresën virtuale apo me kërkesën përkatëse
+- SO mirëmban tabelat e mapimit të përdorura nga MMU dhe trajton eksepcionet e
+paraqitura.
+57. SO-sistemi operativ ruan mapimin prej emrit të segmentit në adresën fizike të bazës në
+____________________________________?
+Tabelën e Segmentit
+58. Të vizatohet tabela e segmentit?
+59. Kontrolli i qasjes, Memoria është një prej shumë objekteve për të cilat SO duhet të ushtrojë
+kontroll të qasjes. Në përgjithësi, kontrolli i qasjes ka tri qëllime, cilat janë ato qëllime?
+- Kontrollin e secilës qasje: Përndryshe SO mund të dështojë të vërejë që qasja është anuluar
+- Imponimin e privilegjit më të ultë: T’i lejojë programit qasje vetëm në numër më të vogël të
+objekteve të nevojshme për të kryer një detyrë. Qasja në objekte shtesë mund të jetë e
+padëmshme në kushte normale, por shkatërruese në raste të veçanta
+- Verifikimin e përdorimit të lejuar: Kufizimi i llojeve të aktivitetit të cilat mund të bëhen në
+një objekt. P.sh., për arsye integriteti (ADTs).
+60. Dera e prapme (ndryshe e quajtur edhe dera e kurthit). Çka është?
+- Është një set i instruksioneve i dizajnuar për të anashkaluar mekanizmin e zakonshëm të
+vërtetimit dhe të lejojë qasje në sistem për cilindo që din që dera e prapme ekziston.
+61. Të mirret një shembull real të dyerve të prapme (dera e kurthit)?
+- Derë e prapme për mënjanim të parregullsive e lënë në sendmail
+- Derë e prapme e vendosur nga krimbi Code Red
+- Trokitja e porteve
+- Sistemi dëgjon për tentime të lidhjes për disa mostra të porteve (të mbyllura). Të gjitha këto
+tentime të lidhjes do të dështojnë, mirëpo nëse mostra e duhur është aty, sistemi do të hap,
+p.sh., një port me root shell të lidhur në të.
+62. Çka është sulmi salami dhe tregoni shembuj te ndryshem te ketyre sulemeve nese kemi ne
+kompjuterin tuaj?
+- Sulmi Salami është një sulm i përbërë nga shumë sulme më të vogla, shpesh të konsideruara
+jo konsekuente
+- Shembull klasik: dërgoji fraksionet e centëve të gabimeve gjatë rrumbullakësimit nga shumë
+xhirollogari në një xhirollogari të sulmuesit
+- Më të zakonshme: Vjedhësit e kredit kartelave që marrin shumë pak para nga shumë kredit
+kartela
+- Shitësit që mbingarkojnë blerësit me çmime pak më të ngritura
+- Pompat e derivateve raportojnë jo korrekt sa i përket sasisë së derivateve të shitura.
+63. Çfarë sulmi është shkallëzimi i privilegjeve?
+- Shkallëzimi i privilegjeve është një sulm i cili e ngrit nivelin e privilegjeve të sulmuesit (përtej
+privilegjeve të cilat do t’i takonin zakonisht).
+64. Aftësitë e padukshmërisë, Si e fshehin ekzistencën e tyre rootkit-et?
+- Fshijnë të gjitha log mesazhet të cilat mund të kenë qenë krijuar nga shfrytëzimi
+- Modifikojnë komandat si ls dhe ps ashtu që ato nuk raportojnë fajlla dhe procese që i
+takojnë rootkit-it Apo,
+- modifikojnë kernel-in ashtu që asnjë program i përdoruesit nuk do të merr vesh për këto
+fajlla apo procese!
+65. Cili është qëllimi primar dhe sekondar i rootkit-tit?
+- Qëllimi “primar” i rootkit-it ishte modifikimi i CD driver-it në Windows ashtu që shumë
+procese që tentonin tl lexonin nga CD me mbrojtje XCP do të ngatërroheshin
+- Qëllimi “sekondar” ishte gjetja e tij e vështirë dhe de-instalimi
+- I fshihte të gjitha fajllat dhe proceset emrat e të cilëve fillonin me $sys$
+- Pasi shumë klientë u ankuan, Sony përfundimisht lëshoi një de-instalues, mirëpo ekzekutimi
+i de-instaluesit la një derë të prapme në sistem!.
+66. Sulmuesi mund të instalojë një keyboard logger në kompjuterin tuaj për të mabjtur këto
+shënime, cilat janë ato shënime?
+- Të gjitha email-at / IM që ju i dërgoni
+- Të gjitha fjalëkalimet që i shtypni
+- Këto të dhëna mund të qasen lokalisht, apo mund t’i dërgohen një makine në largësi përmes
+Internetit
+67. Kush instalon keyboard logger-at dhe pse?
+- Me siguri keyboard logger-at instalohen nga malware
+- Regjistron fjalëkalimet, posaçërisht fjalëkalimet bankare
+- E dërgojnë informacionin drejt sulmuesit në largësi
+Mirëpo shumica e keyboard logger-ave instalohen nga një anëtar i familjes për të përgjuar
+anëtarin tjetër
+- Përgjimi i fëmijëve
+- Përgjimi i bashkëshortes/bashkëshortit
+- Përgjimi i të dashurës/të dashurit
+68. Përmendi disa Lloje të keyboard logger-ave?
+- Logger-ë specifikë sa i përket aplikacionit
+- Keyboard logger-ë sistemorë
+- Keyboard logger-ë harduerikë
+69. Cikli jetësor i softuerit kalon nëper disa etapa, cilat janë ato etapa?
+- Specifikimi, Dizajni, Implementimi, Change management, Code review, Testing,
+Documentation dhe mirmbajtja –Maintenance.
+70. Kemi katër lloje të PI (Pronës Intelektuale), cilat janë ato?
+- Mbulojnë katër lloje të paprekshmërive
+- Bartin të drejta të ndryshme
+- Kanë kohëzgjatje të ndryshme
+- Kanë kërkesa të ndryshme për regjstrim (por megjithatë shpesh të hutueshme për njëra
+tjetrën!)
+71. Permendi disa patentime më të dallueshme të algoritmeve kriptografike?
+- Diffie-Hellman (mbarim afati më 1997)
+- RSA (mbarim afati më 2000)
+- IDEA (bllok shifrat e përdorura në PGP të hershëm, mbarim afati më 2012)
+- Shumë patentime për kriptografi të lakores eliptike.
+72. Çka do të thot shkurtesa TCB?
+- Trusted Computing Base (TCB)
+73. Kerneli i sigurisë funksionon përfundi kernelit të SO, gjë që e bën më të vështirë për një
+sulmues?
+- manipulimin e tij
+- ndryshimin e tij
+- shkatërrimin e tij
+- asnjëra prej tyre nuk është e sakt
+74. Virtualizimi është një mënyrë e ofrimit të ndarjes logjike (izolimit), janë dy Shkallë të
+ndryshme të virtualizimit, cilat janë ato?
+- Memoria virtuale dhe Makinat virtuale
+75. Si mund t’i bindim të tjerët që t’i besojnë SO, janë tri veprime për ti besuar, cilat janë ato?
+- Testimi, verifikimi formal dhe Validimi
+76. Çka është Testimi te SO?
+- Mund të demonstrojë ekzistencën e problemeve, por jo edhe mungesën e tyre
+- Gati e pamundur të testohen të gjitha hyrjet
+- Testimi i depërtueshtueshmërisë: Kërkoni ekspertët e jashtëm të futen në SO tuaj.
+77. Çka është Verifikimi formal te SO?
+- Përdorni logjikën matematikore për të vërtetuar korrektësinë e SO
+- Ka përparime së fundi, Fatkeqësisht, SO-të rriten më shpejtë se sa përparimet në hulumtim.
+78. Çka është validimi?
+- Metoda tradicionale të inxhinieringut softuerik
+- Kontrollime të kërkesave, rishikime të dizajnit dhe kodit, testime të sistemit
+79. Cilat janë Kërcënimet në rrjete?
+- Gjurmimi, Sulmet në besueshmëri, Shtirja dhe falsifikimi, Sulmet në integritet, Dështimet në
+protokolle, Cenueshmëritë e Web site-ave, Refuzimi i shërbimit, Kërcënimet në kodin
+aktiv/mobil, Script kiddies.
+80. Çka është Inxhineringu social nëse një sulmues kotakton me userin?
+- Sulmuesi mbledh informacione të ndjeshme direkt nga personi
+- Shpesh, sulmuesi shtiret të jetë dikush tjetër brenda organizatës së personit i cili ka problem
+dhe e shfrytëzon vullnetin e personit për të ndihmuar (ose e kundërta)
+- E harrova fjalëkalimin tim, e bllokova veten, kam problem me llogarinë Paypal,...
+81. Përgjimi, pronari i nyjes mundet gjithmonë të monitorojë rrjedhën e komunikimit nëpër nyje,
+kemi dy lloje të pergjimeve, çka është pergjimi aktiv?
+- Përgjimi aktiv apo pasiv
+- Përgjimi aktiv përfshin modifikim apo fabrikim të komunikimit
+- Mundet poashtu të përgjojë gjatë rrjedhës së komunikimit nëpër link
+- Shkalla e cenueshmërisë varet nga lloji i mediumit komunikues apo kur komunikimi i
+dërgohet rastësisht nyjes së sulmuesit
+- Është maturi të supozoni që komunikimi juaj përgjohet.
+82. Nëse jemi të lidhur me WiFi, sulmuesi çka vepron ndaj nesh dhe cilen lloje te antenes e vendos
+ne kompjuterin e tije për të sulmuar?
+- Lehtë mund të kapet nga secili që ka pajisje mobile me aftësi Wi-Fi
+- Pa harduer shtesë, që mund të shkaktojë dyshim
+- Ndoshta me kilometra larg përmes antenës direksionale
+- WiFi poashtu shkakton probleme tjera të sigurisë
+- Barrierat fizike (muret) ndihmojnë kundër pajisjeve të ndryshme të lidhura në rrjet, por jnaë
+gati të padobishme në rrjete wireless
+- Ka nevojë për mekanizëm vërtetimi për mbrojtje kundër shtojcave të lira.
+83. Nëse jemi te lidhur me një rrjet të internetit Local Area Network (LAN), çka mund të vepron
+esi
+lmu
+u
+s
+- Lidhë të gjithë kompjuterët brenda kompanisë apo universitetit
+- Arsyet teknike mund të shkaktojnë që një paket t’i dërgohet shumë nyjeve, e jo vetëm
+pranuesit të destinuar
+- Si paracaktim, kartela e rrjetit injoron paketet me destinim të gabuar
+- Sulmuesi mund ta ndryshojë këtë duke përdorur një nuhatës të paketeve për t’i kapur këto
+pakete.
+84. Cilat objekte në shkencat kompjuterike mund të Falsifikohen (spoofing)?
+- Një objekt (nyje, person, URL, Web faqe, email, WiFi access point,…) maskohet si një tjetër.
+85. Falsifikimi URL-së, sulmuesi çka shfrytëzon?
+- Shfrytëzon gabimet drejtshkrimore: www.uwaterlo.ca
+- Shfrytëzon dykuptimësitë: www.foobar.com apo www.foo-bar.com?
+- Shfrytëzon ngjashmëritë: www.paypa1.com
+86. Rrëmbimi i sesionit, Web server-ët ndonjëherë i detyrojnë klientët të mbajnë pjesë të kodit
+(“cookie”) për çfar arsye e bëjnë këtë?
+- për ri-identifikim të klientit gjatë vizitave të ardhshme
+- Sulmuesi mund të nuhatë apo vjedhë cookie dhe të maskohet si klient.
+87. Çka janë Sulmet e integritetit dhe çka mund të vepron një sulmues?
+- Sulmuesi mund të modifikojë paketet gjatë transmetimit
+- Ndryshon ngarkesën e paketit
+- Ndryshon adresën e nyjes përfundimtare të dërguesit apo dhënësit
+- Ri-dërgojë paketet e para më parë
+- Fshijë apo krijojë pakete
+88. Cenueshmëritë e Web Site-ve, çka mund të vepron një sulmues nëse cenohet webi?
+- Qasja e një URL përfshin kthimin e kodit HTML nga web server
+- I tregon shfletuesit si të paraqes web faqen dhe si të bashkëveprojë me web server-in
+- Sulmuesi mund të hulumtojë këtë kod dhe të gjejë cenueshmëri.
+89. Nëse sulmuesi krijon URL qëllim keq dhe e dërgon drejt web server-it për çka i bënë ketë?
+- Shfrytëzuar një buffer overflow, Invokuar një shell apo program tjetër
+- Futur parametra hyrës qëllim këqinj drejt skriptës së serverit
+- Qasur fajllat e ndjeshëm, P.sh., duke përfshirë “../” në URL ose duke krijuar URL të ndryshëm
+nga “ata të lejuar” në kodin HTML.
+90. Refuzimi i shërbimit (DoS), çka është Vërshimi ping?
+- Nyja që pranon një paket ping pritet të gjenerojë një përgjigje
+- Sulmuesi mund të mbingarkojë viktimën
+- E ndryshme nga “ping of death”, i cili paraqet një paket pingu të keq-formatuar i cili e rrëzon
+komjuterin e viktimës.
+91. Nëse sulmuesi e sulmon viktimen me Sulmin Smurf, çka vepron sulmuesi?
+- Falsifiko adresën e nyjës përfundimtare të dërguesit në paketën ping duke e përcaktuar atë
+në adresën e viktimës
+- Transmeto paketën ping në të gjitha nyjet në LAN
+92. Çka përfshin Sulmi vrima e zezë në rutera?
+- Rutimi i paketeve në Internet bazohet në protokolin e shpërndarë
+- Secili ruter informon ruterët tjerë për koston e tij për të arritur një set të destinacioneve
+- Ruteri qëllim keq lajmëron kosto të ultë për destinacionin e viktimës dhe hedh poshtë
+çfarëdo trafik të destinuar për viktimën
+- Ka ndodhur edhe si pasojë e keq konfigurimit të ruterit.
+93. Çka shkakton Sulmet DNS nëse helmohet?
+- Helmimi i DNS cache-it mund të shkaktojë rutim të paketeve në nyjen e gabuar.
+94. Botnetet sot janë shumë të sofistikuar çka përfshijë?
+- Virus/krimb/trojan për përhapje bazuar në shfrytëzime të shumëfishta
+- Padukshmëri për t’u fshehur nga pronari i kompjuterit
+- Modifikim të kodit për detektim të vështirë
+- Bot i dobishëm për sulem të ndryshme (spam, DDoS,...)
+- I shpërndarë, infrastrukturë e kontrollit dinamik dhe redundant.
+95. Krimbat e mëhershëm (Nimda, slammer) ishin shkruar nga hakerët për famë me qëllim të
+përhapjes së krimbit sa më shpejtë të jetë e mundur
+- slammer infektoi 75,000 nyje për______________ minuta
+- Shkaktoi përçarje dhe ndihmoi ______________________
+10/ detektimin
+96. Kodi aktiv në programim, për të reduktuar ngarkesën e serverit, serveri mund të kërkojë nga
+klienti ekzekutimin e kodit në cilen gjuhe programuese dhe për çka?
+- Java, JavaScript, ActiveX
+- Invokojë aplikacion tjetër (Word, iTunes,…)
+- Ndoshta pa vëmendje (shih sulmin XSS)
+97. Faktorët e vërtetimit, përemendi KATER klasa të faktorëve të vërtetimit dhe shpjegoni ato një
+nga një?
+- Diçka që përdoruesi din: Emri i përdoruesit dhe fjalëkalimi, PIN-i, përgjigja në pyetjen e
+fshehtë
+- Diçka që përdoruesi ka: Kartelë ATM, kartelë, cookie të shfletuesit, çelës fizik, uniformë
+- Diçka që përdoruesi është: Biometrika (gjurmët e gishtave, mostër e zërit, fytyra,…) E
+përdorur përgjithmonë nga njerëzit, vetëm së fundi nga kompjuterët
+- Diçka rreth kontekstit të përdoruesit: Lokacioni, koha.
+98. Cilat janë Problemet e përdorimit të fjalë kalimit?
+- Fjalëkalimet e harruara mund të mos rikthehen (edhe pse kjo së fundi po ndryshon)
+- Futja e fjalëkalimit është jo e përshtatshme
+- Nëse fjalëkalimi zbulohet nga individë të paautorizuar, individi mund të qaset në resurse të
+pambrojtura
+- Përveç nëse përdorim vërtetim shumë-faktorësh
+- Nëse fjalëkalimi përdoret bashkërisht nga shumë njerëz, freskimi i tij bëhet më i vështirë.
+99. Sulmet e bazuara në supozim të fjalëkalimeve, sulmet Brute-force, çka përfshin?
+- Provo të gjitha fjalëkalimet e mundshme duke përdorur kërkimin shterues (exhaustive)
+- Është i mundur testimi i 350.000 fjalëkalimeve të Microsoft Word-it për sekondë në një
+Pentium 4 3-GHz
+- Për fjalëkalime të gjatësisë 8 me vetëm shkronja, ekzistojnë afër 2*1011
+mundësi
+100. Sulmet e bazuara në supozim të fjalëkalimeve, kemi dy lloje te sulmeve, specifiko cilat
+janë ato sulme dhe çka përfshin?
+- Sulmi offline: Në vend të kësaj sulmuesi mund të tentojë të supozojë fjalëkalimin tuaj të
+bankës duke provuar kyçjen në website-in e bankës
+- Sulmi online: Sulmet online janë të zbulueshme, Banka mbyll qasjen online për llogarinë tuaj
+pas n tentimeve të dështuara për qasje (zakonisht n ≤ 5), Mirëpo! Si mundet një sulmues t’a
+anashkalojë këtë mbyllje?
+101. Higjiena e fjalëkalimeve, gjatë udhëtimeve të gjata nëpër botë, çka duhet të veprohet
+me fjalë kalimet e juaja për të shprëndar pagat e punëtorëve?
+- Përcjellni (forward) email-in tuaj drejt një Webmail ofruesi pa pagesë dhe përdorni
+fjalëkalim broshurë (throwaway) të butë.
+102. Sulmet në fajlla të fjalëkalimeve, Website-i/kompjuteri ka nevojë të ruajë
+informacionet për fjalëkalimin ashtu që të vërtetohet fjalëkalimi i futur, Ruajtja e
+fjalëkalimeve në formatin tekstual është e rrezikshme, edhe nëse fajlli ka mbrojtje nga leximi i
+përdoruesve të zakonshëm, pse është e rrezikshme?
+- Fajlli i fjalëkalimeve mund të përfundojë në shirita backup
+- Sulmuesi në SO mund të ketë qasje në fajll të fjalëkalimit
+- Admisnitratori i sistemit ka qasje në fajll dhe mund të përdorë fjalëkalimet për t’u shtirur si
+përdorues tjetër në loakcione tjera
+- Shumë njerëz ri-përdorin fjalëkalimet nëpër lokacione të ndryshme të rrjetit.
+103. Mbrojtja nga sulmet, UNIX i bën këto sulme më të vështira duke ruajtur shtojca
+specifike sa i përket përdoruesit (user-specific salts) në fajllin e fjalëkalimit, për çka krijohen
+ato shtojca?
+- Shtojca krijohet nga koha e ditës dhe ID e procesit të /bin/passwd
+- Shtojca përfshihet gjatë llogaritjes së gjurmës digjitale të fjalëkalimit
+- Dy përdorues që kanë të njëjtin fjalëkalim do të kenë gjurmë të ndryshme
+- I bën sulmet supozuese më të vështira, nuk mund të ndërtojë vetëm një tabelë të gjurmëve
+dhe fjalëkalimeve dhe ta përdorë çfarëdo fajll të fjalëkalimit.
+104. Sulmet e kapjes, Fjalëkalimet një-herëshe i bën këto kapje të papërdorshme, cilat janë
+ato kapje?
+- Në protokollin sfidë-përgjigje, serveri dërgon drejt klientit një sfidë të rastit
+- Klienti përdor sfidën dhe fjalëkalimin si vlerë hyrëse për funksion dhe llogarit fjalëkalimin
+një-herësh
+- Klienti e dërgon fjalëkalimin-njëherësh drejt serverit
+- Serveri kontrollon nëse përgjigja e klientit është e vlefshme
+- Bazuar në sfidën dhe përgjigjen e kapur, sulmuesi mund të sulmojë fjalëkalimin me sulmin
+brute-force.
+105. Marrëveshja për krimin kibernetik, Marrëveshja për krim kibernetik e Këshillit të
+Evropës (nësnhkruese të së cilës janë edhe Kanadaj dhe SHBA-të), çka pëcakton?
+- Përcakton që shtetet anëtare duhet të miratojnë ligje të cilat lehtësojnë qasjen ligjore në
+trafik telekomunikues (përfshirë këtu zërin, të dhënat dhe Internetin).
+106. Zbulimi i plotë i gabimeve në softwer, disa njerëz (zakonisht jo prodhuesit) preferojnë
+zbulimin e plotë të softwerit pse behet kjo dhe çka mund të bëjë një sulmues?
+- Kur ju gjeni një problem, e postoni në listën e email-ave për zbulim të plotë e cila përfshin
+profesionistë të sigurisë (si p.sh., Bugtraq)
+- Arsyetimi për këtë është që derisa ju (njerëz të mirë) e keni zbuluar këtë problem, të
+këqinjtë mund ta kenë bërë të njëjtën gjë, dhe mund ta shfrytëzojnë plotësisht
+- Ju duhet të mbyllni vrimën sa më shpejt të jetë e mundur, derisa prodhuesi të sigurojë një
+arnim zyrtar
+- Aq më tepër, pa zbulim, prodhuesit ndonjëherë ka pak motivim për të rregulluar problemin
+përkatës.
+107. Zbulimi përgjegjës i gabimit, nëse ju (njerzit e mir) e zbuloni një gabim në softwer, çka
+duhet ju të veproni?
+- Nëse ju gjeni një të metë të sigurisë, i tregoni prodhuesit
+- Mos i tregoni askujt tjetër ër së paku 30 ditë
+- Nëse prodhuesi nuk ka publikuar të metën, duke ju atribuar juve për këtë zbulim, dhe
+rregullimin, ju duhet të kontaktoni qendrën koordinuese si p.sh., CERT për të vendosur çka
+më tutje
+108. Si një profesionist i sigurisë kompjuteriek (apo edhe përtej sigurisë), ju duhet të
+mbështetni standarde përkatëse etike, cilat janë ato shoqeri që ju duhet të jeni anëtar?
+- Ju do të jeni anëtar i një apo më shumë shoqërive profesionale
+- Association for Computing Machinery (ACM)
+- Institute of Electrical and Electronics Engineers (IEEE)
+- Canadian Information Processing Society (CIPS) Këto organizata kanë kode të etikës
+profesionale.
+109. Vërtetimi i serverit, cilat elemente i përfshin Sulmi klasik?
+- Në laborator kompjuterik, përdorni një aplikacion që paraqet një login screen të rrejshëm
+- Kur përdoruesi “kyçet”, programi paraqet mesazh gabimi, dërgon ID dhe fjalëkalimin e kapur
+të përdoruesit drejt sulmuesit dhe përfundon sesionin aktual (i cili do të startojë login
+screen-in aktual)
+- Për këtë arsye Windows kërkon nga ju të shtypni <CTRL-ALT-DELETE> për kyçje. Gjithmonë
+ju paraqet dritaren e kyçjes dhe nuk mund të shkelet.
+110. Sistemt operative të besueshme, Zakonisht një sistem operativ i besueshëm operativ
+ndërtohet mbi katër faktorë, cilët janë ata faktorë?
+- Politikat: Set i rregullave që planifikojnë çka është siguruar dhe si.
+- Modeli: Një model që implementon plotikën dhe që mund të përdoret për arsyetim të
+politikës
+- Dizajni: Një specifikim i implementimit të modelit nga ana e SO
+- Besimi: Sigurimi që SO implementohet sipas dizajnit.
+111. Softueri i besueshëm, Softueri i cili është zhvilluar dhe analizuar në mënyrë rigoroze,
+duke na dhënë neve arsye të besojmë që kodi bën atë që pritet prej tij dhe asgjë më tepër, një
+softuer i besueshëm duhet ti ketë katër faktorë që të jetë i besueshëm, cilët janë ata faktorë?
+- Korrketësia funksionale: Softueri punon në mënyrë korrekte
+- Zbatimi i integritetit: Hyrjet e gabuara nuk ndikojë në korrektësinë e të dhënave
+- Privilegji i kufizuar: Të drejtat për qasje minimizohen dhe nuk kalohen te të tjerët
+- Niveli përkatës i mirëbesimit: Softueri është vlerësuar si i nevojshëm nga rrethina
+- Besimi mund të ndryshojë me kohën, p.sh., bazuar në përvojë.
+112. Elementet e besueshme dizajnuese të sistemit, cilat janë Principet e dizajnimit për
+siguri?
+- Privilegji më i ultë: Operon me më së paku privilegje
+- Ekonomia e mekanizmit: Mekanizmi mbrojtës duhet të jetë i thjeshtë dhe i hapur
+- Dizajni i hapur: Eviton sigurinë përmes paqartësisë, Mbështetet në çelësa sektretë apo
+fjalëkalime, mirëpo jo në algoritme sekrete.
+113. Të dhënat e fshehura, Ju mendoni që keni fshirë disa të dhëna, mirëpo ato janë ende
+të fshehura diku, ku janë të fshehura?
+- Fshirja e fajllit nuk do ta fshijë fizikisht një fajll në disk
+- Fshirja e një email-i në GMail nuk do ta largojë atë email nga baskup-et e Google-it
+- Fshirja e tekstit në MS Word mund të mos e largojë tekstin nga dokumenti
+- Vendosja e një kutie të zezë mbi një tekst në PDF e lë tekstin në PDF
+- Veçoria Shadow Copy në Windows Vista i ruan snapshot-et e fajllave për të mundësuar
+rikthim.
+114. Çka shkakton Script kiddies?
+- mund të shkarkojnë skripta dhe të aktivizojnë sulme pa ndonjë përpjekje të madhe,
+Ekzistojnë edhe vegla të cilat mundësojnë sulme individuale bazuar në shfrytëzime
+ekzistuese.
+115. Kontrollat e qasjes, ACL (Access Control List) në ruterë, cka vepron?
+- I tërë trafiku për në kompani zakonisht kalon nëpër një apo disa ruterë.
+- Në rast të sulmit vërshues, defino ACL-in e ruterit që hedh pshtë paketat me burim dhe
+destinacion përkatës
+- ACL-ët janë të shtrenjtë për ruterë me trafik të lartë
+- Vështirë të grumbullohen shënimet për analizë ligjore
+- Adresat e burimit të paketeve në vërshim janë zakonisht të falsifikuara dhe dinamike.
+116. Firewall-e të qëndrueshme inspektuese, janë më të shtrenjtë, Mbajnë gjendjen për të
+identifikuar paketet që i përkasin njëra tjetrës, trego mënyren se si I perkasin?
+- Kur një klient brenda kompanisë hap një koneksion TCP drejt një serveri jashtë kompanisë,
+firewall-i duhet të njohë paketet reaguese nga serveri dhe vetëm ato t’i lejojë të kalojnë
+- Disa protokolle të shtresës së aplikacionit (p.sh., FTP) kërkojnë inspektim shtesë (të
+shtrenjtë) të përmbajtjes së paketeve për të kuptuar llojin e trafikut që duhet lejuar
+117. Firewall-et personale, Mbron nga sulmet ndaj serverëve në kompjuter, trego mënyren
+sesi i mbron?
+- Serverët që punojnë pa nevojë (p.sh., Windows XP para SP 1 ka vuajtur nga kjo)
+- Serverët që janë konfiguruar gabimisht dhe që lejojnë qasje nga kompjuterë tjerë (apo që
+nuk mund të konfigurohen për të ndaluar këtë)
+- Serverët që kanë gabime që mund të keqpërdoret nga larg.
+118. Honeypot-et / Honeynet-et, Poashtu, sulmuesi mund të jetë në gjendje të përdorë
+______________________________ për t’u futur në sistemin e vërtetë.
+honeypot/-net.
+119. IDS-të e bazuar në nyje dhe rrjete, IDS-të të bazuar në nyje si punon?
+- Punojnë në nyje dhe mbrojnë këtë nyje
+- Mund të keqpërdorin shumë informacione (paketet, disqet, memorie,… )
+- Hquin informacionin në dispozicion për nyje tjera (të slumuara)
+- Nëse nyjet shkatërrohen, IDS-të me gjasa do të shkatërrohen, poashtu.
+120. IDS-të e bazuar në nyje dhe rrjete, IDS-të të bazuar në rrjete si punon?
+- Punojnë në nyje të dedikuar dhe mbrojnë të gjitha nyjet të lidhur për rrjet
+- Duhet të bazohen në informacion në dispozision në pakete të monitoruara
+- Zakonisht më të vështirë për t’u shkatërruart.
+121. IDS-të e bazuar në nyje dhe rrjete , IDS-të e bazuar në nënshkrim si punon?
+- Secili sulm (i njohur) e ka nënshkrimin e tij (P.sh., shumë SYN-ë në porte të cilat nuk hapen
+mund të jenë pjeës e skanimit të porteve)
+- IDS-të a bazuar në nënshkrim tentojnë të detektojnë nënshkrimet e sulmeve
+- Dështojnë gjatë sulmeve të reja apo nëse sulmuesi arrin të modifikojë sulmin ashtu që
+nënshkrimi i tij ndryshon
+- Krimbat polimorfikë
+- Mund të shfrytëzojnë analizën statistike.
+122. IDS-të e bazuar në heuristikë/anomali, si punon?
+- Kërkojnë për sjellje e cila është jashtë të zakonshmes
+- Duke modeluar sjelljen e mirë dhe duke alarmuar në momentin që aktiviteti i sistemit nuk i
+përngjan këtij modeli apo duke modeluar sjellje të keqe dhe duke alarmuar në momentin që
+aktiviteti i sistemit i përngjan këtij modeli
+- I tërë aktiviteti klasifikohet si i mirë/dashamirës, i dyshimtë apo i panjohur
+- Me kalimin e kohës, IDS-të mësojnë të klasifikojnë ngjarje të panjohura si të mira apo të
+dyshimta
+- Ndoshta përmes të mësuarit të makinës
+123. Çka do të thot plaintext-it______________________________________________)
+Çka do të thot ciphertext _______________________________________________)
+(mesazh i zakonshëm i lexueshëm)/mesazh i pa lexueshem)
+124. Çka kuptoni me Kriptoanaliza dhe ku është qëllimi i kriptografisë?
+- thyerja e mesazheve sekrete: Rikthimi i plaintext-it nga ciphertext
+- qëllimi është dërgimi i mesazheve të sigurta nëpër një medium jo të sigurtë (Interneti)
+-
+125. Kriptografia përmban tri lloje kryesore të komponenteve, cilat janë ato komponente?
+- Komponentet e fshehtësisë: Parandalimi i Evës nga leximi i mesazheve të Alisës
+- Kompnentet e integritetit: Parandalimi i Mallorit nga modifikimi i mesazheve të Alisës
+- Kompnentet e vërtetësisë: Parandalimi i Mallorit nga shtirja si Alisa.
+126. Kriptosistemet e forta, Çfarë informacioni mund të supozojmë që sulmuesi (Bekimi) ka
+kur tenton të thyejë sistemin tonë?
+- Ajo mund të:
+- Dijë algoritmin (klasa publike e metodave të enkriptimit)
+- Dijë disa pjesë të tekstit
+- Dijë një numër (ndoshta numër i madh) i çifteve korresponduese plaintext/ciphertext
+- Ka qasje në oracle të enkriptimit dhe/ose dekriptimit
+127. Duhet ta dini se?
+- Një kompjuter mund të provojë rreth 17 milionë çelësa për sekondë.
+- Një koroporatë mesatare apo laborator hulumtues mund të ketë 100 kompjuterë.
+- Projekti BOINC ka 2 milionë kompjuterë (Berkeley Open Infrastructure
+for Network Computing)
+- Detyrë, Enkriptimi 56-bitësh sipas standard i qeverisë amerikane algoritmike (DES) për një
+kohë të gjatë ka vleren 256
+= 72,057,594,037,927,936 çelësa të mundshëm, trego se per sa
+kohe mund të thyhen këta çelsa?
+- Një kompjuter: ____________________________________________ sa vjet
+- Një laborator: ______________________________________________ sa muaj
+- BOINC: ____________________________________________________ sa minuta
+134 vjet/16 muaj/36 minuta
+128. Stream shifra përfitohet kur shfrytëzojmë _________________________, por përdorim
+një ______________________________________________ në vend të çelësit të rastit?
+One-Time Pad/ pseudorandom keystream
+129. Çka janë dhe si veprojn Stream shifrat?
+- Mund të jenë shumë të shpejtë
+- Shumë e dobishme gjatë dërgimit të shumë të dhënave në mënyrë të sigurtë
+Por mund të jenë të ndërlikuar për përdorim korrekt!
+Çka ndodh nëse përdorim të njëjtin çelës për enkriptim të dy mesazheve të ndryshme?
+Si do të zgjidhej ky problem pa kërkuar një çelës të ri të përbashkët për çdo mesazh? Ku e
+kemi parë të teknikë më parë?
+WEP, PPTP janë shembuj shumë të mirë se si nuk bën të përdoren stream shifrat
+130. Bllok shifrat, mund të përdorim bllok shifrat për operim dhe bllok shifrat te
+zakonshem, trego menyren si?
+- Bllok shifrat operojnë në mesazh një bllok në kohë
+- Blloqet janë zakonisht 64 apo 128 bitë të gjatë
+131. Tregoni disa shembuj të Kriptografia me çelës publik?
+- RSA, ElGamal, ECC
+132. Madhësitë e çelësave publikë, Krahasimi i madhësive të çelësave për fuqi përafërsisht
+të njëjtë. Të caktohet krahasueshmeria e fuqive algoritmike për AES dhe RSA.
+- AES-80,116,128,160,256
+- RSA-1024,2048,2600,4500,14000
+133. Hash funksionet kriptografike, tregoni disa shembuj algoritmike të hash
+funksionit që perdoren sot?
+- Shembuj të zakonshëm: MD5, SHA-1, SHA-256
+134. Hash funksionet në përgjithësi kanë dy veçori, cilat janë ato?
+- Një-drejtimësh: Për një vlerë të dhënë hash, është vështirë të gjendet një mesazh i cili
+përzihet në atë vlerë (një “paraimazh”).
+- Rezistent në ndeshje: Është vështirë të gjenden dy mesazhe të cilat përzihen në të njëjtën
+vlerë (një “ndeshje”).
+135. Dërgimi jozyrtar i mesazheve, Dërgimi jozyrtar i mesazheve (Off-the-Record Messaging
+- OTR) çka është?
+- është softuer që ju mundëson biseda private përmes mesazheve të shpejta (instant
+messaging), duke ofruar: Enkriptim: Vetëm Bobi mund të lexojë mesazhet e dërguara nga
+Alisa
+- Vërtetimi: Bobi sigurohet që mesazhet erdhën nga Alisa.
+136. Bazat (relacionale) të të dhënave, çka është DBMS dhe si funksionon?
+- Sistemi për menaxhim të bazës së të dhënave (DBMS) ofron përkrahje për kërkim dhe
+menaxhim
+- DBMS më i popullarizuar është i bazuar në modelin relacional
+- Ruan rekordet në një apo më shumë tabela (relacionet)
+- Tabela ka kolona të emëruara (atributet) dhe rreshtat (tuple)
+137. Kërkimet në bazë të të dhënave, Gjuha më e popullarizuar për kërkim është
+__________________
+SQL
+138. Kërkimet në bazë të të dhënave, duke u bazuar ne gjuhen SQL, Shtyp emrin e fundit të
+secilit person së bashku me aeroportin e tij/saj përmes relacioneve lidhëse NAME-ZIP dhe ZIP-
+AIRPORT. Cilat janë komandat për verifikim, perdore cilin do emer dhe cilin do qytet per
+udhëtim?
+- SELECT COUNT(Name) FROM NAME-ZIP
+WHERE City = 'Chicago'
+139. Çka përfshin Integriteti i bazës së të dhënave?
+- Mbron ndaj korruptimit të bazës së të dhënave
+- Lejon freskim të bazës së të dhënave vetëm nga individë të autorizuar
+- Rigjenerimi nga problemet fizike
+- Dështimet në energji elektrike, shkatërrim të disqeve.
+- Aplikojmë krijim periodik të kopjeve rezervë
+- Mbajmë regjistrim të transakcioneve për t’i përsëritur këto pas krijimit të fundt të kopjes
+rezervë
+140. Çka kupton me Vërtetimi / disponueshmëria e përdoruesit të BDH?
+- Bazat e të dhënave mundësojnë përdorimin e përbashkët të të dhënave, mirëpo
+disponueshmëria mund të vuajë nëse shumë përdorues dëshirojnë çasje në të njëjtin rekord
+- Blloko qasjen deri sa përdoruesi tjetër përfundon së përditësuari rekordin.
+141. Kodet për vërtetim të mesazheve (MAC), Këta hash-a me çelës zakonisht quhen Kode
+për vërtetim të mesazhit apo, MAC, tregoni disa Shembuj të zakonshëm?
+- SHA-1-HMAC, SHA-256-HMAC, CBC-MAC.
+142. Të vizatohet skema e krijimit të nënshkrimeve dixhitale?
+143. Siguria dhe privatësia në rrjete, Kriptografia në rrjete përdoret në çdo shtresë të
+stekut të rrjetit si për aplikacione të sigurisë ashtu edhe të sigurisë, tregoni disa shembuj
+praktik psh?
+- Link: __________________________________________________
+- Network: _______________________________________________
+- Transport: ______________________________________________
+- Application: ______________________________________________
+WEP, WPA, WPA2/ VPN, IPSec/ TLS / SSL, Tor/ ssh, PGP, OTR, Mixminion
+144. Bllokadat e integritetit, Ofron kontroll të integritetit dhe qasjes, Secili element i të
+dhënave përbëhet prej tri të dhënave?
+- Elementit aktual të të dhënave
+- Etiketë të ndjeshmërisë (mund të fshehet)
+- Nënshkrim kriptografik (apo MAC) që mbulon etiketën dhe emrin e atributit të elementit
+dhe numrin e rekordit.
+145. Çka kuptoni me skajin e përparmë të besueshëm në DBMS për BDH?
+- Skaji i përparmë vërteton një përdorues dhe përcjell kërkesat në DBMS të llojit të vjetër
+- Skaji i përparmë merr rezultatet nga DBMS dhe i largon elementet e të dhënave të cilat
+përdoruesi nuk ka të drejtë t’i shohë
+- Lejon përdoriin e DBMS ekzistuese dhe bazave të të dhënave
+- Jo efikase nëse DBMS kthen shumë elemente dhe shumica prej tyre hudhen poshtë nga skaji
+i përparmë
+146. Shumë DBMS përkrahin pamjet, çka është pamja dhe shkruja kodin për BDH?
+- Pamja është një bazë logjike e të dhënave që përfaqëson një nënset të një baze tjetër të të
+dhënave
+- Kodi: CREATE VIEW foo AS SELECT * FROM bar WHERE…
+147. Pamjet mund të përdoren për kontroll të qasjes, tregoni mënyren e qasjes?
+- Pamja e përdoruesit për një bazë të të dhënave përbëhet vetëm prej të dhënave të cilat
+përdoruesi është i lejuar t’i qaset
+- Fsheh atributin/rreshtinn përveç nëse përdoruesi lejohet t’i qaset së paku një elementi,
+përcakto në UNDEFINED cilindo prej elementeve të cilat përdoruesi nuk mund t’i qaset.
+148. Siguria dhe privatësia në shtresën e transportit, Mekanizmi kryesor i sigurisë për
+shtresën e transportit është?
+- TLS (i njohur më parë si SSL)
+149. Mekanizmi kryesor i privatësisë për shtresën e transportit është?
+- Tor
+150. Në mes të viteve 1990, Netscape zbuloi një protokoll të quajtur Secure Sockets Layer
+(SSL) me qëllim të mbrojtjes së koneksioneve HTTP (web), Protokolli, megjithatë ishte i
+përgjithshëm, dhe mund të përdorej të mbronte cilindo koneksion të bazuar në TCP, të
+barazohet linku?
+- HTTP + SSL = _____________________________
+HTTPS
+151. TLS në nivel të lartë, Klienti lidhet me serverin, tregon që don të bisedojë me TLS, dhe i
+cili aplikon procedurën përkatëse ciphersuite Serveri e dërgon certifikatën e tij drejt klientit, e
+cila përmban disa kerkesa, cilat janë ato kërkesa?
+- Emrin e nyjes
+- Çelësin publik të tij
+- Informacione tjera administrative
+- Një nënshkrim nga CA (Certificate Authority)
+152. Çka është Tor dhe si funksionon?
+- Është një teknologji për përmirësim të privatësisë që funksionon në nivel të transportit
+- Me qindra mijëra përdorues
+- Zakonisht, çfarëdo koneksion TCP bën shfaqjen e automatike të IP adresës tënde
+- Pse?
+- Tor lejon që të bëni koneksione TCP pa zbulimin e IP adresës tuaj
+- Shpesh përdoret për koneksione HTTP (web)
+153. Rrëshqitësi i nimitetit, Mund të vendosim transakcione (online dhe offline) në
+vazhdimësi sipas nivel të nimitetit çka përfaqëson?
+- Shumënimiteti (Verinymity): ID të qeverisë, SIN, # kartelë krediti, adresa
+- Pseudonimiteti i këmbëngulës: Noms de plume (emrat e lapsit), shumë blogje
+- Anonimiteti i lidhshëm: Kartelat telefonike me parapagim, kartelat e lojalitetit
+- Anonimiteti jo i lidhshëm: Pagesat me para në dorë, Tor.
+154. Përmbajtjet e planit të sigurisë, Një plan i sigurisë është përshkrim i gjendjes aktuale
+të sigurisë së organizatës, si dhe plan për përmirësim i cili i ka shtatë pjesë, cilat janë ato?
+- Politika
+- Gjendja aktuale
+- Kërkesat
+- Kontrollat e rekomanduara
+- Llogaridhënia
+- Orari
+- Kujdesi i vazhdueshëm
+155. Kush e shkruan planin e sigurisë? Ekipi i planifikimit të sigurisë duhet të ketë
+përfaqësim nga një numër i sekcioneve?
+- Menagjmenti i lartë / CTO / CIO (përcaktimi i politikave)
+- IT (grupi i harduerit, adminstratorët e sistemit)
+- Programerët e sistemit dhe të alikacionit, administratorët e bazave të të dhënave
+- Personeli për futje të të dhënave
+- Personeli për siguri fizike
+- Përfaqësues nga përdoruesit
+156. Analiza e rrezikut, në mjedisin tonë, analiza e rrezikut zakonisht përbëhet prej këtyre
+hapave, tregoni hapat cilet janë?
+- Identifiko asetet
+- Përcakto cenueshmëritë
+- Vlerëso mundësinë e shfrytëzimit
+- Llogarit humbjet e pritura
+- Shqyrto kontrollat e aplikueshme
+- Prjojekto kursimet si pasojë e kontrollit
+157. Pretty Good Privacy, Çka bën dhe si punon?
+- Qëllimi primar është mbrojtja e përmbajtjes së mesazheve të email-it
+- Përdor kriptografinë me çelës publik për të ofruar: Enkriptim të mesazheve të email-it dhe
+Nënshkrime dixhitale në mesazhet e email-it.
+158. Funksionet kryesore të PGP-së cilët janë?
+- Krijimi i katër llojeve të çelësave
+- Enkriptimi, dekriptimi, nënshkrimi, verifikimi
+- Enkriptim të mesazheve përmes çelësit enkriptues të tjetër kujt
+- Dekriptim të mesazheve përmes çelësit dekriptues të vet
+- Nënshkrim të mesazheve përmes çelësit nënshkrues të vet
+- Verifikim të nënshkrimve përmes çelësit verifikues të tjetër kujt
+- Nënshkrim të çelësave të tjetër kujt përmes çelësit nënshkrues të vet.
+159. Njerëzit e këqinj në kompjuterin ton mund të mesojn për mesazhet, ne cilat mënyra?
+- Dekriptojnë mesazhet paraprake
+- Mësojnë për përmbajtjen e tyre
+- Mësojnë që Alisa i dërgoi ato
+- Dhe kanë dëshmi matematikore të cilat mund t’i tregojnë secilit!
+160. Çka është WPA?
+- Zëvendëson CRC-32 me një MAC të vërtetë (i quajtur këtu MIC për të evituar konfuzion me
+adresa Media Access Control)
+- IV është 48 bitësh
+- Çelësi ndërrohet shpesh (TKIP)
+- Aftësi për të përdorur server vërtetimi 802.11x
+- Mirëpo ruan modin PSK (Pre-Shared Key) më pak të sigurtë për përdorues shtëpiakë
+- Me aftësi për të funksionuar në harduer më të vjetër WEP.
+
